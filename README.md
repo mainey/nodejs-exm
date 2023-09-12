@@ -4,6 +4,7 @@ npm start, that's it.
 
 ## CI/CD
 Consists of 2 stage:
+
     - Build
     - Rollout
 
